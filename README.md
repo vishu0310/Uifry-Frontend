@@ -6,8 +6,8 @@ This repository contains the code for the Uifry website. Uifry is a financial de
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/uifry-website.git
-    cd uifry-website
+    git clone https://github.com/vishu0310/Uifry-Frontend
+    cd Uifry-Frontend
     ```
 
 2. **Install dependencies**:
@@ -51,7 +51,7 @@ This repository contains the code for the Uifry website. Uifry is a financial de
 
 The website design is based on a Figma file which can be accessed through the following link:
 
-[Figma Design for Uifry Website](https://www.figma.com/file/your-figma-design-link)
+[Figma Design for Uifry Website](https://www.figma.com/community/file/1145991068621514311)
 
 ## Repository Link
 
@@ -60,3 +60,5 @@ You can find the repository on GitHub at the following link:
 [GitHub Repository for Uifry Website](https://github.com/vishu0310/Uifry-Frontend)
 
 Feel free to fork the repository, submit issues, and make pull requests. Contributions are welcome!
+
+Developer : Vishu Patle
