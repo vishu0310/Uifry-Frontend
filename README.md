@@ -57,14 +57,6 @@ The website design is based on a Figma file which can be accessed through the fo
 
 You can find the repository on GitHub at the following link:
 
-[GitHub Repository for Uifry Website](https://github.com/yourusername/uifry-website)
+[GitHub Repository for Uifry Website](https://github.com/vishu0310/Uifry-Frontend)
 
 Feel free to fork the repository, submit issues, and make pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-**Note**: Ensure to replace `yourusername` with your actual GitHub username and `your-figma-design-link` with the actual link to your Figma design.
